@@ -1,2 +1,4 @@
 # Qt-Graph-Editor-Dijkstra-
- A small project written in Qt that implements a graphical graph builder and visualization of Dijkstra's algorithm
+Небольшой проект, написанный на Qt, в котором реализован графический построитель графов, а также визуализация алгоритма Дейкстры
+ 
+Исходный код проекта можно собрать с помощью Qt и/или в среде разработки Qt Creator
